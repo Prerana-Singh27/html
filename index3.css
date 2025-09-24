@@ -1,1 +1,18 @@
 
+*{
+            margin: 0; padding: 0;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        #box h3 {
+            text-transform: capitalize;
+            background-color: red; text-align: center;
+        }
+
+          #inner {
+           font-size: 10px;
+        }
+
+        #outer {
+          
+            font-size: 25px;
+        }
